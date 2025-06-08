@@ -37,6 +37,7 @@ I imported and cleaned data from **Access to Excel**, focusing on key tables:
 Unnecessary columns were removed to streamline analysis. I then created relationships:
 - Between `Orders` and `Customers`
 - Between `Orders` and `Employees`
+
 This relationship is demonstrated on the 'Orders' table, EmployeeID and CustomerID associated with each order.
 This enabled accurate, relationally-aware visualizations and calculations throughout the workbook.
 
