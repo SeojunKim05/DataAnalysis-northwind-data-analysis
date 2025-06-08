@@ -8,7 +8,7 @@ This project presents a comprehensive sales analysis based on the sample **North
 - **Microsoft Excel** (Power Pivot, DAX, Pivot Tables, Charts)
 - **Microsoft Access** (`.accdb` format)
 - **Data Modeling & Relationships**
-- **Custom DAX Functions** for transformation and aggregation
+- **Custom DAX Functions** for transformation
 
 ---
 
@@ -76,33 +76,18 @@ Provides a percentage breakdown of target order levels among dried fruits and nu
 
 ---
 
-## 🧠 Highlights of My Contributions
+## 🎯 Learning Goals
 
-- Proactively **cleaned and structured** external Access data for analysis-ready use.
-- Designed **relational data models** enabling complex multi-table analysis in Excel.
-- Applied **custom DAX functions** to manipulate and unify data across dimensions (e.g., name formatting, conditional filtering).
-- Built a series of **interactive pivot tables and visualizations** that surface actionable insights from the Northwind dataset.
-- Ensured **data quality** by identifying and surfacing incomplete records.
+- **Master relational data modeling** by connecting Access tables in Excel’s Data Model.  
+- **Enhance analytical thinking** through the creation of meaningful pivot tables and custom filters.  
+- **Apply DAX formulas** like `CONCATENATEX` for advanced data transformation and summarization.  
+- **Develop effective visualizations** to communicate insights using bar and pie charts.  
+- **Practice data cleaning** by identifying and resolving missing or irrelevant entries.  
+- **Integrate tools** (Excel + Access) to simulate real-world business data analysis scenarios.
 
----
-
-## 📌 Summary
-
-This project demonstrates how Excel can be leveraged as a powerful BI tool when combined with structured relational data and advanced analytical functions. It reflects my ability to:
-- Work across systems (Access + Excel)
-- Build data models from scratch
-- Implement analytical logic
-- Communicate findings visually and interactively
 
 ---
 
-## 🔎 Next Steps
-
-- Expand dashboard with KPIs (e.g., revenue by region, average shipping time)
-- Automate data refresh using Power Query
-- Migrate to Power BI for broader deployment
-
----
 
 ## 💬 Questions or Feedback?
 
