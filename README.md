@@ -59,7 +59,7 @@ Highlights high-shipping-fee orders (shipping > $50) and displays the correspond
 Organizes all products under their respective categories (e.g., *Beverages → Beer, Chai, etc.*), helping visualize product diversity across the company’s catalog.
 
 ### 🚫 Products Without Quantity Per Unit PT  
-Flags all products with missing or undefined `QuantityPerUnit` values, aiding data completeness checks.
+Flags all products with missing or undefined `Quantity Per Unit` values, aiding data completeness checks.
 
 ### 💵 Products > $25 PT  
 Displays a filtered view of all products with a unit price above $25—useful for analyzing premium inventory.
