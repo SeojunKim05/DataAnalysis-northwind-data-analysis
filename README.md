@@ -88,7 +88,13 @@ Provides a percentage breakdown of target order levels among dried fruits and nu
 
 ---
 
+## 🤝 Contact
 
-## 💬 Questions or Feedback?
+Got feedback or want to collaborate?
 
-Feel free to open an issue or connect with me if you're interested in collaboration or want to know more about this project.
+📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---
+
