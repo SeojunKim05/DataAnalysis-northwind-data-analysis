@@ -12,7 +12,7 @@ This project presents a comprehensive sales analysis based on the sample **North
 
 ---
 
-## 📁 Repository Files
+## 📁 Repository Contents
 
 - `Northwind Database.accdb`  
   Original sample database used as the external data source.
